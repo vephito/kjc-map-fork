@@ -1,2 +1,1 @@
-hello world
-My name is KJC
+KJC Open Source Tutorial
